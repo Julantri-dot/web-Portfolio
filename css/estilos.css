@@ -1,0 +1,111 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background: linear-gradient(#fcc459,#f88f57) ;
+} 
+.typ{
+	font-family: "amandine", sans-serif;
+	text-align: center;
+ 
+}
+.fondotexto{
+  background-color: #fcc459,#f88f57;
+  padding: 10px;
+ 
+  box-shadow: 
+    0 0 15px 0 #ad3707; 
+font-family: "amandine", sans-serif;
+	text-align: center;	
+}
+h1{color:antiquewhite;
+font-family: "ciclo-display", sans-serif;
+font-weight: 400;
+font-style: normal;
+	
+	text-align: center;}
+
+.header-centrado {
+  background-color: #1a1a1a; 
+}
+
+.logo-ajustado {
+  max-width: 200px; 
+  height: auto;
+  margin: 20px auto; 
+}
+
+
+.nav-link {
+  color: #fff !important;
+}
+
+
+.elemento {
+  width: 100%;
+}
+p{
+	font-family: "quiverleaf-cf", sans-serif; 
+	text-align: center;
+}
+t{
+font-family: "brother-1816", sans-serif;
+	text-align: center;
+	
+	
+}
+N{
+font-family: "lindsey-signature", sans-serif;	
+	font-size:50px;
+}
+
+footer { 
+text-align: center;
+
+	
+  background-color: #1a1a1a;
+	 color: #f0f0f0;
+	padding: 40px 20px;
+}
+
+L {
+	font-family: "quiverleaf-cf", sans-serif; 
+	text-align: center;
+	font-size:30px;
+}
+
+.vid{ padding: 4%
+}
+.elemento{background-color: #1a1a1a; 
+	color: #f0f0f0;
+font-family: "amandine", sans-serif;
+font-size: 18px;
+}
+
+.card-transparente {
+  background-color: #ad3707;
+  border: none !important;
+	text-align: center;
+}
+
+.box
+{background-color: #410701;
+  border: none !important;
+	text-align: center;}
+
+.card-title, .card-text {
+  color: #fff; 
+	text-align: center
+}
+
+
+.cat{text-align: center;width: 1000px}
+.navbar .nav-link {
+  border-bottom: 2px solid transparent; 
+  transition: border-color 0.3s ease; 
+}
+
+.navbar .nav-link:hover {
+  border-bottom: 2px solid #6c757d; 
+}
+
